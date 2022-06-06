@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+    position: relative;
+    padding: 0%;
+    overflow-x:  hidden;
+}
+
+h1{
+    background: blue;
+    color: white;
+    text-align: center;
+   width: 100%;
+   font-size: 2.0em;
+   padding: 1%;
+   margin: 0%;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-size: 1.5em;
+    padding: 0.2%;
+    position: absolute;
+
+
+    
+}
+
+
+rodape1{
+    background-color: black;
+    padding: 0.5%;
+    width: 100%;
+    position: absolute;
+    bottom: 0%;
+
+}
+
+.barra{
+    margin-left: 0;
+    margin-right: 0;
+}
